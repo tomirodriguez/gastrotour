@@ -60,7 +60,7 @@ export function EventDetails() {
 									Ubicación
 								</h3>
 								<a
-									href="https://share.google/IjIOR7VPBUPWSHR8H"
+									href="https://maps.app.goo.gl/VtedxgcqnohRBd4d6"
 									target="_blank"
 									rel="noopener noreferrer"
 									className="text-muted-foreground hover:text-accent transition-colors inline-flex items-center gap-1"
