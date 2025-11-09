@@ -151,6 +151,9 @@ export function EventDetails() {
 					<p className="text-sm text-muted-foreground italic">
 						Vestimenta libre y cómoda
 					</p>
+					<p className="text-sm text-accent font-medium">
+						Requerimiento especial: La invitada debe usar sombrero de Pikachu
+					</p>
 				</div>
 			</div>
 		</section>
